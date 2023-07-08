@@ -95,7 +95,6 @@ function h(r) {
         i[t.name] = e;
       }
     }),
-    console.log({ formObj: i, Isvalid: s }),
     { formObj: i, Isvalid: s }
   );
 }
