@@ -9,8 +9,8 @@ let border = ["border-transparent", "border-lightblue"];
 let languages = ["javascript (es6)", "python", "php"];
 let frameworks = [
   "react js",
-  "bootstrap",
   "tailwind",
+  "bootstrap",
   "nodejs",
   "framer motion",
   "gsap",
