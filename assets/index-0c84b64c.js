@@ -99,3 +99,24 @@ function h(r) {
   );
 }
 c.addEventListener("click", m);
+//footer social links
+// document
+//   .querySelector("#instagram-link")
+//   .addEventListener(
+//     "click",
+//     () => (location.href = "https://www.instagram.com/elijahkemz/")
+//   );
+// document
+//   .querySelector("#facebook-link")
+//   .addEventListener(
+//     "click",
+//     () => (location.href = "https://www.facebook.com/elijah.kemz")
+//   );
+// document
+//   .querySelector("#linkedin-link")
+//   .addEventListener(
+//     "click",
+//     () =>
+//       (location.href =
+//         "https://www.linkedin.com/in/elijah-kipkemboi-b25268156/")
+//   );

@@ -15,6 +15,7 @@ let frameworks = [
   "framer motion",
   "gsap",
 ];
+
 let tools = ["vscode", "npm", "git", "vite", "cli"];
 
 //populate functions
